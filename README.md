@@ -1,2 +1,2 @@
-# zadanie_12_7
-Trello z Ajax
+# Trello z API
+https://paszak.github.io/Trello-with-API/
